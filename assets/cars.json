@@ -1,0 +1,82 @@
+[
+  {
+    "name": "E-Class",
+    "engine": "Titanium Dioxide, Octinoxate",
+    "interior_material": "Rubber",
+    "color": "Maroon",
+    "wheel_rims": 97,
+    "type_of_wheels": "Viva",
+    "air_suspension": true,
+    "signature": "knowledge base"
+  },
+  {
+    "name": "9-3",
+    "engine": "epirubicin hydrochloride",
+    "interior_material": "Aluminum",
+    "color": "Yellow",
+    "wheel_rims": 84,
+    "type_of_wheels": "Subin",
+    "air_suspension": false,
+    "signature": "analyzer"
+  },
+  {
+    "name": "EXP",
+    "engine": "Alcohol",
+    "interior_material": "Steel",
+    "color": "Goldenrod",
+    "wheel_rims": 99,
+    "type_of_wheels": "Home Ing",
+    "air_suspension": false,
+    "signature": "Upgradable"
+  },
+  {
+    "name": "350Z",
+    "engine": "AVENA SATIVA FLOWERING TOP, CHAMOMILE, HUMULUS LUPULUS STEM, PASSIFLORA INCARNATA FLOWER, CALCIUM PHOSPHATE, FERROSOFERRIC PHOSPHATE, POTASSIUM PHOSPHATE, DIBASIC, SODIUM PHOSPHATE, and MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE",
+    "interior_material": "Wood",
+    "color": "Khaki",
+    "wheel_rims": 25,
+    "type_of_wheels": "Zaam-Dox",
+    "air_suspension": true,
+    "signature": "Right-sized"
+  },
+  {
+    "name": "Pilot",
+    "engine": "Enalapril Maleate",
+    "interior_material": "Wood",
+    "color": "Indigo",
+    "wheel_rims": 68,
+    "type_of_wheels": "Mat Lam Tam",
+    "air_suspension": false,
+    "signature": "algorithm"
+  },
+  {
+    "name": "LS Hybrid",
+    "engine": "levocetirizine dihydrochloride",
+    "interior_material": "Stone",
+    "color": "Mauv",
+    "wheel_rims": 96,
+    "type_of_wheels": "Pannier",
+    "air_suspension": true,
+    "signature": "Expanded"
+  },
+  {
+    "name": "Tucson",
+    "engine": "Ranitidine",
+    "interior_material": "Aluminum",
+    "color": "Khaki",
+    "wheel_rims": 71,
+    "type_of_wheels": "Fix San",
+    "air_suspension": false,
+    "signature": "standardization"
+  },
+  {
+    "name": "W201",
+    "engine": "Antimonium tartaricum, Echinacea angustifolia, Euphorbium officinarum, Hepar sulphuris calcareum, Hepatica tribola, Hydrastis canadensis, Mercurius sulfuratus ruber, Natrum muriaticum, Phosphorus",
+    "interior_material": "Aluminum",
+    "color": "Red",
+    "wheel_rims": 45,
+    "type_of_wheels": "Gembucket",
+    "air_suspension": true,
+    "signature": "optimizing"
+  }
+]
