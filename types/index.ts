@@ -8,3 +8,7 @@ export interface CarInterface {
     air_suspension: Boolean,
     signature: String
 }
+/* class Car implements CarInterface{
+    name,
+    engine: String;
+} */

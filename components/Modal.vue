@@ -1,6 +1,8 @@
 <template>
   <div class="car">
-    <div @click="toggleModal" class="car__header">{{ car.name }}</div>
+    <div @click="toggleModal" class="car__header">
+      {{ car.name }}
+    </div>
     <div v-if="open" class="car__details">
       <ul>
         <li v-for="(value, key) in car">{{ key }} - {{ value }}</li>
@@ -9,9 +11,10 @@
   </div>
 </template>
 <script setup lang="ts">
-import { defineProps, ref } from 'vue';
+import { defineProps, ref, defineEmits } from 'vue';
 import { CarInterface } from '~/types';
 const open = ref(false);
+// const emit = defineEmits('update:modelValue');
 function toggleModal() {
   open.value ? (open.value = false) : (open.value = true);
 }

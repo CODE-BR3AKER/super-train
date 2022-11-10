@@ -17,11 +17,12 @@ import { CarInterface } from '~/types';
         }, */
 const emit = defineEmits(['submit']);
 const { options } = defineProps<{
-  options: Array<CarInterface>;
+  options: CarInterface;
 }>();
 </script>
 <style>
 form {
+  width: 100%;
   display: flex;
   flex-direction: column;
 }

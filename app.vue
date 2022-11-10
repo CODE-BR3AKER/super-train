@@ -7,7 +7,7 @@
       <div class="car__header car__header_btn">+ New specification</div>
     </div>
     <div class="wrapper__form">
-      <CarForm :options="carList" />
+      <CarForm :options="carList[0]" />
     </div>
   </main>
 </template>
