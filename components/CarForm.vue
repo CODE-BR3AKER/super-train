@@ -1,6 +1,5 @@
 <template>
   <form @onsubmit="emit">
-    <!-- possible improvement: if property is a string: input: text, otherwise provide options-->
     <div v-for="(value, key) in options">
       <label>{{ key }}</label
       ><br />

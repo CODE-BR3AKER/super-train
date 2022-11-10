@@ -14,9 +14,10 @@
 import { defineProps, ref, defineEmits } from 'vue';
 import { CarInterface } from '~/types';
 const open = ref(false);
-// const emit = defineEmits('update:modelValue');
-function toggleModal() {
+const emit = defineEmits(['update:modelValue']);
+function toggleModal(event: Event) {
   open.value ? (open.value = false) : (open.value = true);
+  emit('update:modelValue', event.target);
 }
 const { car } = defineProps<{
   car: CarInterface;
